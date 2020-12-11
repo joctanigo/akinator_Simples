@@ -1,0 +1,14 @@
+E:\objective\jogoGourmet\jogoGourmet\obj\Debug\jogoGourmet.csprojAssemblyReference.cache
+E:\objective\jogoGourmet\jogoGourmet\obj\Debug\jogoGourmet.Confirm.resources
+E:\objective\jogoGourmet\jogoGourmet\obj\Debug\jogoGourmet.frmApresentacao.resources
+E:\objective\jogoGourmet\jogoGourmet\obj\Debug\jogoGourmet.Properties.Resources.resources
+E:\objective\jogoGourmet\jogoGourmet\obj\Debug\jogoGourmet.csproj.GenerateResource.cache
+E:\objective\jogoGourmet\jogoGourmet\obj\Debug\jogoGourmet.csproj.CoreCompileInputs.cache
+E:\objective\jogoGourmet\jogoGourmet\bin\Debug\jogoGourmet.exe.config
+E:\objective\jogoGourmet\jogoGourmet\bin\Debug\jogoGourmet.exe
+E:\objective\jogoGourmet\jogoGourmet\bin\Debug\jogoGourmet.pdb
+E:\objective\jogoGourmet\jogoGourmet\obj\Debug\jogoGourmet.exe
+E:\objective\jogoGourmet\jogoGourmet\obj\Debug\jogoGourmet.pdb
+E:\objective\jogoGourmet\jogoGourmet\obj\Debug\jogoGourmet.Acerto.resources
+E:\objective\jogoGourmet\jogoGourmet\obj\Debug\jogoGourmet.Desisto.resources
+E:\objective\jogoGourmet\jogoGourmet\obj\Debug\jogoGourmet.Determinar.resources
